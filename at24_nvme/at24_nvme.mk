@@ -1,0 +1,1 @@
+CSRCS += $(shell find -L $(LVGL_DIR)/at24_nvme -name "*.c")
